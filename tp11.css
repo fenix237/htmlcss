@@ -1,0 +1,180 @@
+body
+{
+	background-color: #edd340;
+	width: 10em;
+}
+header
+{
+	position: absolute;
+	left: 50px;
+	top: 10px;
+}
+.important
+{
+	font-family: forte;
+	font-weight: bold;
+	font-size: 1.4em;
+}
+.dessous
+{
+	font-size: 1.2em;
+}
+nav
+{
+	position: absolute;
+	right: 110px;
+	top: 70px;
+}
+nav a
+{
+	padding: 10px;
+	color: black;
+	font-size: 1.5em;
+	text-decoration: none;
+	border-bottom: 5px solid;
+	border-spacing: 5px;
+}
+nav a:hover
+{
+	color: red;
+	border-bottom: 10px red solid ;
+}
+section
+{
+	border-top: dashed 7px red;
+	position: absolute;
+	top: 250px;
+}
+.pont
+{
+	width: 87em;
+	padding: 30px 80px 50px 80px;
+	height: 20em;
+}
+section article h1
+{
+	padding: 20px 80px 20px 80px;
+	font-size: 30px;
+}
+section article p
+{
+	text-align: justify;
+	padding: 0px 600px 0px 80px;
+	font-size: 1.1em;
+}
+section article
+{
+	width: 96em;
+}
+aside
+{
+	background-color: #5e6180;
+	width: 28.5em;
+	height: 35em;
+	position: absolute;
+	top: 400px;
+	right: 130px;
+	left: 1000px;
+	padding: 10px;
+	color: white;
+}
+aside h1
+{
+	font-size: 1.8em;
+	text-align: center;
+}
+aside p
+{
+	font-size: 1.2em;
+	text-align: justify;
+	font-family: lucida calligraphy;
+}
+aside a
+{
+	text-align: center;
+}
+.zozor
+{
+	text-align: center;
+}
+.facebook
+{
+	width: 3em;
+	height: 3em;
+	margin: 8px;
+}
+.twitter
+{
+	width: 3em;
+	height: 3em;
+	margin: 8px;
+}
+.vimeo
+{
+	width: 3em;
+	height: 3em;
+	margin: 8px;
+}
+.maestro
+{
+	width: 3em;
+	height: 3em;
+	margin: 8px;
+}
+.rss
+{
+	width: 3em;
+	height: 3em;
+	margin: 8px;
+}
+footer
+{
+	border-top: dashed 7px red;
+	position: absolute;
+	top: 1250px;
+	left: 0px;
+	right: 0px;
+	padding: 0px 0px 200px 0px;
+
+}
+.d1
+{
+	position: absolute;
+	left: 80px;
+
+}
+.d2
+{
+	position: absolute;
+	left: 600px;
+
+}
+.d3
+{
+	position: absolute;
+	right: 150px;
+}
+.liberte
+{
+	width: 5em;
+	height: 4em;
+	margin: 10px 10px 10px 0px;
+}
+.tajmahal
+{
+	width: 5em;
+	height: 4em;
+	margin: 10px;
+}
+.arc
+{
+	width: 5em;
+	height: 4em;
+	margin: 10px;
+}
+.muraille
+{
+	width: 5em;
+	height: 4em;
+	margin: 10px;
+}
